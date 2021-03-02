@@ -1,3 +1,3 @@
 ## No time to play
 
-![Image](NoTimeToPlay.png)
+![copertina](https://github.com/chumpblocckami/NoTimetoPlay/NoTimeToPlay.png)
